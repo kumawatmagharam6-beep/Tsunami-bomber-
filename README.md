@@ -59,8 +59,5 @@ All Android versions from 5.0 (Lollipop) and above are fully compatible with thi
 - Offers unlimited (with abuse protection) and exceptionally fast SMS bombing capabilities  
 - Actively supports Indian mobile numbers and will receive regular updates and bug fixes  
 - Designed for free and open-source use; please feel free to reach out with any questions  
-
-## ✒️ Credits 
-### [MrSp4rX](https://github.com/MrSp4rX)<br>
-**Work: I want to thank MrSp4rX, the creator of the iSpammer Python tool, for inspiring the development of this Bombing App. Its solid architecture influenced many core features. I'm also grateful for the APIs that enhanced the app's functionality. MrSp4rX's support has been invaluable. Thank you, MrSp4rX, f
-[Click here to visit iSpammer Repository](https://github.com/kumawatmagharam6-beep)
+## GitHub profile 
+(https://github.com/kumawatmagharam6-beep)
